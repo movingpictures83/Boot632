@@ -1,0 +1,2 @@
+Prefix plugins/Boot632/example/
+Plugin Boot632 inputfile none outputfile output.rds
